@@ -1,5 +1,11 @@
 # Simple Chatbot
 
+## Brain of the Chatbot
+
+1. Wit.ai makes it easy for developers to build a Siri-like speech interface for their app or device. It's an API that turns natural language (speech or messages) into actionable data.
+2. The controller logic comes from a [Wit.ai model](https://wit.ai/aparajitakunaltiwari/IntentModel)
+3. Its a multi class classifier taking in a sentence and predicting its class from 4 pre defined classes i.e., greeting, critism, appreciation, end of conversation. We can train it further.
+
 ## Setup
 
 1. Download and Install [Node.js](https://nodejs.org/dist/v6.10.0/node-v6.10.0-x64.msi).
