@@ -16,5 +16,5 @@
 6. Run **node index.js** for starting the chatbot.
 7. Run ngrok in cmd as follows **ngrok.exe http 3000**
 8. Finally put the HTTPS link in the *Webhooks* section of the [Facebook App](https://developers.facebook.com/apps/1267270506675197) with verify as *MY_CHAT_BOT*
-9. Subscribe the webhook to the chatbot page shared in [Messenger section](https://developers.facebook.com/apps/1267270506675197/messenger/).
+9. Subscribe the webhook to the **[chatbot](https://www.facebook.com/Chatbot-207888116360722/)** page in [Messenger section](https://developers.facebook.com/apps/1267270506675197/messenger/).
 10. Then chat with the bot at [messenger](https://www.messenger.com/t/207888116360722)
